@@ -1,4 +1,5 @@
 # StockMarketRealTimeIngestion
+[Uploading StockMarketDiagram.drawio…]()
 
 ## Start Zoo-keeper:
 
