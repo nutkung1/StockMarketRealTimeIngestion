@@ -1,5 +1,6 @@
 # StockMarketRealTimeIngestion
-[Uploading StockMarketDiagram.drawio…]()
+<img width="192" alt="Screenshot 2567-12-19 at 02 00 09" src="https://github.com/user-attachments/assets/a3d97ef3-f3ec-4ea6-be5d-ff6caf2124b3" />
+
 
 ## Start Zoo-keeper:
 
